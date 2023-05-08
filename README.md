@@ -1,4 +1,0 @@
-# ServeTogether
-#test AG
-
-doofus
